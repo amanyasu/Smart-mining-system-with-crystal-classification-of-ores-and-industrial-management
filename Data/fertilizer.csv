@@ -1,0 +1,23 @@
+,Crop,N,P,K,pH,soil_moisture
+0,Zincite,80,40,40,5.5,30
+3,Carnalite,80,40,20,5.5,50
+5,Rock salt,40,60,80,5.5,60
+12,Saltpetre,20,60,20,5.5,45
+13,Galena,20,60,20,5.5,45
+14,Anglesite,20,40,20,5.5,30
+15,Chlorargyrite,20,40,20,5.5,80
+18,Sylvanite,40,60,20,5,60
+24,Dolomite,20,60,20,5.5,90
+60,Limestone,20,10,40,5.5,30
+61,Cinnabar,100,75,50,6.5,40
+62,Anhydrite,20,20,30,5,15
+63,Braunite,20,125,200,4,60
+66,Gypsum,100,10,50,5.5,70
+67,Fluorapatite,100,10,50,5.5,30
+69,Mangnite,20,125,200,6.5,50
+74,Hematite,20,10,10,4,60
+75,siderite,50,50,50,6,20
+88,alunite,20,10,30,5,45
+93,feldspar,120,40,20,5.5,70
+94,kaolin,80,40,40,5.5,20
+95,Bauxite,100,20,30,5.5,20
